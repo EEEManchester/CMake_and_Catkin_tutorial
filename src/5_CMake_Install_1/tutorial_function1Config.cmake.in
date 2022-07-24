@@ -1,0 +1,4 @@
+SET(tutorial_function1_INCLUDE_DIRS @CMAKE_INSTALL_PREFIX@/include)
+SET(tutorial_function1_LIBRARY_DIRS @CMAKE_INSTALL_PREFIX@/lib)
+SET(tutorial_function1_LIBRARIES tutorial_function1)
+SET(tutorial_function1_FLAGS @tutorial_function1_FLAGS@ )
